@@ -1,10 +1,10 @@
 
 # Estandares / nomenclatura / Base de datos
 
-TODO: Nombres de tablas
-TODO: Nombres de campos
-TODO: Nombres de SP
-TODO: Nombres de indicies
+- TODO: Nombres de tablas
+- TODO: Nombres de campos
+- TODO: Nombres de SP
+- TODO: Nombres de indicies
 
 ## Nombres de restricciones "Constraint"
 
@@ -24,8 +24,8 @@ Los constraint, para claves primarias, se puede omitir el nombre de la columna
 
 Ejemplo 
 
-`pk_tuser`
-`ak_tuser_login`
+- `pk_tuser`
+- `ak_tuser_login`
 
  ### Referencias:
  
