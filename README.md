@@ -1,3 +1,4 @@
+
  # Methodology
 
 Listados de metodologías utilizadas
@@ -5,7 +6,9 @@ Listados de metodologías utilizadas
 12factor es una metodología para crear aplicaciones de software como servicio 
 https://12factor.net/
 
-
+## Estandares / Nomenclatura
+[Estandares / nomenclatura / Base de datos](db.naming_standard.md)
+ 
 
 ## Revisiones
 
