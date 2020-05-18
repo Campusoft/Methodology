@@ -14,7 +14,7 @@
 | Clave foránea ( Foreign Key) | FK |
 | Check (Check condition) | CK |
 | Clave unica (Unique Key) | UK |
-| Clave única (Alternate Key) | AK |
+| Clave alterna (Alternate Key) | AK |
 | Columna Mandatoria (Mandatory column (Not Null)) | NN |
 | Asignadas por DB | SYS |
 
