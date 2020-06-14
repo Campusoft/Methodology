@@ -6,11 +6,14 @@ Listados de metodologías utilizadas
 12factor es una metodología para crear aplicaciones de software como servicio 
 https://12factor.net/
 
-## Estandares / Nomenclatura
+## Estandares / Nomenclatura / Guide
+
+### DB
+
 [Estandares / nomenclatura / Base de datos](db.naming_standard.md)
  
 
-## Guidelines  .NET/.NET Core
+### Guidelines  .NET/.NET Core
 
 Clean Code concepts adapted for .NET/.NET Core
 https://github.com/thangchung/clean-code-dotnet
