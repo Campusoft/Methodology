@@ -10,6 +10,13 @@ https://12factor.net/
 [Estandares / nomenclatura / Base de datos](db.naming_standard.md)
  
 
+## Guidelines  .NET/.NET Core
+
+Clean Code concepts adapted for .NET/.NET Core
+https://github.com/thangchung/clean-code-dotnet
+
+
+
 ## Revisiones
 
 A Collection of application ideas which can be used to improve your coding skills.
