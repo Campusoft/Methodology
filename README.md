@@ -13,7 +13,7 @@ https://12factor.net/
 [Estandares / nomenclatura / Base de datos](db.naming_standard.md)
  
 
-##  Guidelines Languaje
+###  Guidelines Languaje
 
 
 Clean Code concepts adapted for .NET/.NET Core
@@ -21,6 +21,12 @@ https://github.com/thangchung/clean-code-dotnet
 
 Clean Code concepts adapted for JavaScript 
 https://github.com/ryanmcdermott/clean-code-javascript
+
+
+## Tool
+
+Sharpen is a Visual Studio extension that intelligently introduces new C# language features into your existing codebase
+https://github.com/sharpenrocks/Sharpen
 
 
 ## Revisiones
