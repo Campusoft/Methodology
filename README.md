@@ -13,11 +13,14 @@ https://12factor.net/
 [Estandares / nomenclatura / Base de datos](db.naming_standard.md)
  
 
-### Guidelines  .NET/.NET Core
+##  Guidelines Languaje
+
 
 Clean Code concepts adapted for .NET/.NET Core
 https://github.com/thangchung/clean-code-dotnet
 
+Clean Code concepts adapted for JavaScript 
+https://github.com/ryanmcdermott/clean-code-javascript
 
 
 ## Revisiones
