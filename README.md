@@ -8,6 +8,12 @@ https://12factor.net/
 
 ## Estandares / Nomenclatura / Guide
 
+
+### REST API Guidelines
+
+[Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md)
+
+
 ### DB
 
 [Estandares / nomenclatura / Base de datos](db.naming_standard.md)
